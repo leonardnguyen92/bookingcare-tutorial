@@ -16,7 +16,7 @@
 | 11 | Application Deployment & Database Migration | Deploy fullstack app to cloud <br> Integrate social plugins | 5h |
 | 12 | Docker & DevOps | Containerize backend & frontend <br> Use Docker Compose for multi-service apps | 6h |
 ---
-## Documents
+## Table Of Contents
 ### [1. Preparing to Become a Fullstack Developer](getting-started/environment-setup.md)
 ### [2. Backend with NodeJS & Relational Database](backend)<br>
 ####    [a. NodeJS](backend/nodejs-api.md)
@@ -32,7 +32,7 @@
 ### [11. Application Deployment & Database Migration](getting-started/deployment-docker.md)
 ### [12. Docker & DevOps](reference/docker-cheatsheet.md)
 ---
-## Table Of Contents
+## Main Content
 ### 1. Preparing to Become a Fullstack Developer (4h)
 - Foundational knowledge to prepare<br>
  :point_right: Kiến thức nền tảng cần chuẩn bị
