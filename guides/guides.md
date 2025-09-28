@@ -19,8 +19,8 @@
 ## Table Of Contents
 ### [1. Preparing to Become a Fullstack Developer](getting-started/environment-setup.md)
 ### [2. Backend with NodeJS & Relational Database](backend)<br>
-####    [a. NodeJS](backend/nodejs-api.md)
-####    [b. Database](backend/database-design.md)
+#### [&nbsp;&nbsp;&nbsp;&nbsp;a. NodeJS](backend/nodejs-api.md)
+#### [&nbsp;&nbsp;&nbsp;&nbsp;b. Database](backend/database-design.md)
 ### [3. Authentication & Authorization](backend/authentication.md)
 ### [4. React Basics](frontend/react-setup.md)
 ### [5. Database Analysis & Design](backend/database-design.md)
